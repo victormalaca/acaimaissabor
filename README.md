@@ -4,4 +4,4 @@
 
 Autores: Victor Pinheiro e Rivelino Nascimento
 Data: 20/12/2015
-Versionamento: GetHub
+Versionamento: GitHub
